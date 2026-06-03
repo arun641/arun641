@@ -163,11 +163,13 @@ Cloud (AWS)
 
 <div align="center">
 
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun641&show_icons=true&theme=github_dark&hide_border=true&count_private=false&hide=contribs)
+![Years of Experience](https://img.shields.io/badge/Experience-5%2B_Years-0078D6?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-DevOps_%26_Cloud-FF6B35?style=for-the-badge)
+![OS](https://img.shields.io/badge/Primary_OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun641&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arun641&theme=dark&hide_border=true)
+> Stats widgets will populate once public repositories are pushed.
+> Check back after repos go live.
 
 </div>
 
